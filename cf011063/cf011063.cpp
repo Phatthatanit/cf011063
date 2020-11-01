@@ -69,7 +69,7 @@ int main() {
 					printf("\n");
 				}
 				for (i = 1; i <= y; i++) {
-					for (j = y; j >= i; j--) {
+					for (j = y; j >= i; j--) { 
 						printf("* ");
 					}
 					printf("\n");
